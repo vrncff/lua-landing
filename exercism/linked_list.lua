@@ -107,8 +107,6 @@ function newLinkedList()
 
 			current = current.next
 		end
-
-		return nil -- value not found
 	end
 
 	return LinkedList
